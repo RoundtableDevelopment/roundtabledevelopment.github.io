@@ -1,30 +1,23 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Our Mission
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Our mission is to solve business problems using software.  Sometimes that means building custom software.  Other times it means simply using off the shelf software to improve processes.  That’s why we’re consultants first and programmers second.  
 
-There are currently two themes built on Poole:
+We’ve run companies with overbuilt software products and budget overruns, and we understand that pain.  We’ve designed our process to understand your business first, so that we can recommend practical, effective solutions.  
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Our Team
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+We’re a small team, with a diverse set of industry backgrounds.  From education to health care, and a multitude of industries in between, chances are we’ve worked on a project in your field. We’re founders of startup companies, teachers, software developers, literature nerds, coffee masters, and scotch salesmen. 
 
-## Setup
+We use our experience to develop practical solutions to your business problems.
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Jordan Burke
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+In addition to his work at Roundtable Development, [Jordan](http://twitter.com/pendragondev) works as the Director of Adult Education for [FourAthens](http://fourathens.com). He recently stepped down as organizer for the [Developers of Athens](http://developersofathens.com) and enjoys mentoring apprentice developers and promoting diversity and inclusion in the Athens tech community. 
 
-Thanks for reading!
+### Daniel McBrayer
